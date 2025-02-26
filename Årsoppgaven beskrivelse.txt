@@ -1,0 +1,1 @@
+Årsoppgaven min blir en nettbutikk der du kan registrere deg på din egen bruker, og sende inn bestillinger til nettsiden. Det skal være på Strawberry Pi, og jeg tenkte å bruke XAMPP Apache eller MySQL (husker ikke hvilken som ble bekreftet for å få lov til å bruke). Nettsiden skal ha registrering og bestilling sider.
